@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-import requests
 import argparse
-import getpass
-import time
-import tqdm
 import os
 from pprint import pprint
 
